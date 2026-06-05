@@ -27,6 +27,9 @@ const PasswordValidator: React.FC = () => {
                 <span className="text-[#ef4444]">Your password must be at least 8 characters</span>
             )
         }
+
+
+        
       </div>
     </div>
   );
